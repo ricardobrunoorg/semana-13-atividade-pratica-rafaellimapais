@@ -7,10 +7,10 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Rafael Lima Pais
+- Matricula:928393
+- Proposta de projeto escolhida:site de preços de viagem
+- Breve descrição sobre seu projeto:fiz um site com as principais cidades do mundo e seu preço de passagem
 
 **Registros do trabalho**
 
@@ -156,9 +156,9 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 ```
 
 << COLOQUE A IMAGEM DA HOME AQUI >>
-
+![Tela Principal](printprincipal.png)
 << COLOQUE A IMAGEM DA TELA DE DETALHES AQUI >>
-
+![Tela de Detalhes](printdetalhes.png)
 
 
 ## **Orientações Gerais**
